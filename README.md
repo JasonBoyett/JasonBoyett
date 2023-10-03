@@ -1,4 +1,4 @@
-### Hey, I'm Jason
+# Hey, I'm Jason
 
 ## About me
 I'm a developer from Austin Texas.
