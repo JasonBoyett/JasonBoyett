@@ -16,7 +16,7 @@ Besides programming, I love to cook, play guitar, swim, and play pool.
 ## Contact me
 You can reach me via Discord, E-mail, or Linkedin
 
-Discord: JasonB#1857
+Discord: jabthedevboy
 
 E-mail: Jason.Boyett@gmail.com
 
