@@ -10,8 +10,8 @@ Besides programming, I love to cook, play guitar, swim, and play pool.
 ## Current Projects
 - Project Iris
   - A speed reading training app built using the T3 stack
-- goproject_init
-  - A terminal tool built to quickly scaffold a project in Go
+- Salvo Load Tester
+  - A load testing tool designed to be easy to extend and to use in different languages.
  
 ## Contact me
 You can reach me via Discord, E-mail, or Linkedin
