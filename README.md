@@ -3,7 +3,7 @@
 ## About me
 I'm a developer from Austin Texas.
 
-I enjoy writing TypeScript, Go, and Python.
+I enjoy writing TypeScript, Go, Rust, and Python.
 
 Besides programming, I love to cook, play guitar, swim, and play pool.
 
