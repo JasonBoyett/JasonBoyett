@@ -7,14 +7,6 @@ I enjoy writing TypeScript, Go, Rust, and Python.
 
 Besides programming, I love to cook, play guitar, swim, and play pool.
 
-## Current Projects
-- [Project Iris](https://github.com/jasonboyett/project-iris)
-  - A speed reading training app built using the T3 stack
-- [Salvo Load Tester](https://github.com/jasonboyett/salvo)
-  - A load testing tool designed to be easy to extend and to use in different languages.
-- [Goethe.nvim](https://github.com/JasonBoyett/Goethe.nvim)
-  - A neovim plugin for persisting your color scheme changes and tracking your theme history
- 
 ## Contact me
 You can reach me via Discord, E-mail, or Linkedin
 
